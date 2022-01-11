@@ -157,6 +157,23 @@ body {
 
 }
 
+.form-label {
+    padding-bottom: 0.5rem;
+}
+
+.linha {
+    width: 100px;
+    border: 0.2px solid rgba(var(--f52,142,142,142),1);;
+    position: relative;
+
+}
+
+.meio-linha {
+    color: rgba(var(--f52,142,142,142),1);
+    
+
+}
+
 .logo-facebook {
     width: 2rem;
 }
